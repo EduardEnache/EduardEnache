@@ -6,7 +6,9 @@
 
 <br>🙋 I’m looking for help with<br>Deepening my understanding of ML fundamentals and building more robust AI features.<br>Prompt engineering best practices for production apps.<br>Cloud architecture patterns for scalable AI and analytics workloads.
 
-<br>🌱 I’m currently learning<br>ML fundamentals and practical AI integration into apps.<br>Prompt engineering for LLM‑based products.<br>Cloud architecture for data/AI workloads.<br>Advanced DAX and data modeling for high‑quality reporting.<br>5G/6G and wireless multiple‑access topics from my Mobile Communications master’s.<br>💬 Ask me about<br>Designing Power BI / Grafana dashboards for operations & performance.<br>Turning messy data into reliable KPIs, OLAs and SLAs.<br>Moving from front‑office / support roles into BI & analytics.<br>Getting started with AI apps using APIs (idea → data model → MVP).
+<br>🌱 I’m currently learning<br>ML fundamentals and practical AI integration into apps.<br>Prompt engineering for LLM‑based products.<br>Cloud architecture for data/AI workloads.<br>Advanced DAX and data modeling for high‑quality reporting.<br>5G/6G and wireless multiple‑access topics from my Mobile Communications master’s.
+
+<br>💬 Ask me about<br>Designing Power BI / Grafana dashboards for operations & performance.<br>Turning messy data into reliable KPIs, OLAs and SLAs.<br>Moving from front‑office / support roles into BI & analytics.<br>Getting started with AI apps using APIs (idea → data model → MVP).
 
 <br>⚡ Fun fact<br>When I need a break, I don’t doom‑scroll—I take a 10‑minute power nap and can wake up straight onto my feet with a full energy reset. Also a fan of gym sessions and running to keep my mind clear.
 
