@@ -1,4 +1,4 @@
-# =About Me:
+# About Me:
 
 I’m currently working on<br>DrawingAI – an AI‑powered web app that live‑draws on canvas from text prompts and lets users share both the artwork and prompts as a learning hub for better prompt building.<br>Uplift – AI Therapist – a free AI companion for quick, on‑the‑spot therapy‑style sessions to help users process difficult emotions anytime, anywhere.<br>QA/BI Dashboards @ Orange – operational & performance dashboards (Power BI, Grafana, SQL, Python) plus data analysis for management decision‑making.
 
