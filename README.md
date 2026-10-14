@@ -1,17 +1,93 @@
-# About Me:
+<div align="center">
 
-I’m currently working on<br>DrawingAI - an AI‑powered web app that live‑draws on canvas from text prompts and lets users share both the artwork and prompts as a learning hub for better prompt building.<br>Uplift - AI Therapist – a free AI companion for quick, on‑the‑spot therapy‑style sessions to help users process difficult emotions anytime, anywhere.<br>QA/BI Dashboards @ Orange - operational & performance dashboards (Power BI, Grafana, SQL, Python) plus data analysis for management decision‑making.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f2a44,100:3b82f6&height=210&section=header&text=Eduard-Florentin%20Enache&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20BI%20%C2%B7%20AI%20Product%20Builder&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Eduard-Florentin Enache"/>
 
-<br>I’m looking to collaborate on<br>Open‑source data / BI tools<br>AI / LLM apps (bots, copilots, assistants)<br>Backend / APIs for AI‑driven products<br>Dashboards & analytics for startups and tech teams
+<a href="https://github.com/LikeMyCoffe">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Turning+messy+data+into+KPIs+people+trust;Building+AI+apps+from+idea+%E2%86%92+data+model+%E2%86%92+MVP;Power+BI+%C2%B7+Grafana+%C2%B7+SQL+%C2%B7+Python+%C2%B7+LLMs" alt="Typing intro"/>
+</a>
 
-<br>I’m looking for help with<br>Deepening my understanding of ML fundamentals and building more robust AI features.<br>Prompt engineering best practices for production apps.<br>Cloud architecture patterns for scalable AI and analytics workloads.
+<sub>📍 România &nbsp;·&nbsp; 🏢 QA / BI @ <b>Orange Services</b> &nbsp;·&nbsp; 🎓 MSc Mobile Communications</sub>
 
-<br>I’m currently learning<br>ML fundamentals and practical AI integration into apps.<br>Prompt engineering for LLM‑based products.<br>Cloud architecture for data/AI workloads.<br>Advanced DAX and data modeling for high‑quality reporting.<br>5G/6G and wireless multiple‑access topics from my Mobile Communications master’s.
+</div>
 
-<br>Ask me about<br>Designing Power BI / Grafana dashboards for operations & performance.<br>Turning messy data into reliable KPIs, OLAs and SLAs.<br>Moving from front‑office / support roles into BI & analytics.<br>Getting started with AI apps using APIs (idea → data model → MVP).
+<br/>
 
-<br>Fun fact<br>When I need a break, I don’t doom‑scroll—I take a 10‑minute power nap and can wake up straight onto my feet with a full energy reset. Also a fan of gym sessions and running to keep my mind clear.
+> I build the dashboards that operations teams run on, and the AI products I wish existed.
+> By day I turn raw operational data into reliable KPIs, OLAs and SLAs; by night I ship LLM‑powered web apps end to end.
 
+<br/>
+
+### ◆ &nbsp;Currently building
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎨 <a href="https://github.com/LikeMyCoffe/DrawingAI">DrawingAI</a></h4>
+      <p>AI‑powered web app that live‑draws on canvas from text prompts, then lets people share the artwork <i>and</i> the prompt, a learning hub for better prompt building.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌿 Uplift · AI Therapist</h4>
+      <p>A free AI companion for quick, on‑the‑spot therapy‑style sessions that helps people process difficult emotions anytime, anywhere.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 QA / BI Dashboards @ Orange</h4>
+      <p>Operational &amp; performance dashboards in Power BI, Grafana, SQL and Python, plus the analysis behind management decisions.</p>
+    </td>
+  </tr>
+</table>
+
+### ◆ &nbsp;Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤝 Open to collaborate on</b>
+      <ul>
+        <li>Open‑source data &amp; BI tools</li>
+        <li>AI / LLM apps: bots, copilots, assistants</li>
+        <li>Backends &amp; APIs for AI‑driven products</li>
+        <li>Dashboards &amp; analytics for startups and tech teams</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>📚 Currently learning</b>
+      <ul>
+        <li>ML fundamentals &amp; practical AI integration</li>
+        <li>Prompt engineering for production LLM products</li>
+        <li>Cloud architecture for data / AI workloads</li>
+        <li>Advanced DAX &amp; data modeling</li>
+        <li>5G / 6G &amp; wireless multiple access (MSc)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>💬 Ask me about</b>
+      <ul>
+        <li>Designing Power BI / Grafana dashboards for operations &amp; performance</li>
+        <li>Turning messy data into reliable KPIs, OLAs and SLAs</li>
+        <li>Moving from front‑office / support into BI &amp; analytics</li>
+        <li>Shipping AI apps on APIs: idea → data model → MVP</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧭 Looking for help with</b>
+      <ul>
+        <li>Deeper ML fundamentals for more robust AI features</li>
+        <li>Prompt engineering best practices in production</li>
+        <li>Cloud architecture patterns for scalable AI &amp; analytics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>⚡ Fun fact</b></summary>
+<br/>
+When I need a break, I don't doom‑scroll. I take a 10‑minute power nap and wake up straight onto my feet with a full energy reset. Gym sessions and running keep my mind clear.
+</details>
+
+<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aneic) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eduard.enache.56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduard_enache100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduard-florentin-enache) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardenache100@gmail.com) 
