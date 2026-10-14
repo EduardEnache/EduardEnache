@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🎨 <a href="https://github.com/LikeMyCoffe/DrawingAI">DrawingAI</a></h4>
+      <h4>🎨 DrawingAI</h4>
       <p>AI‑powered web app that live‑draws on canvas from text prompts, then lets people share the artwork <i>and</i> the prompt, a learning hub for better prompt building.</p>
     </td>
     <td width="33%" valign="top">
