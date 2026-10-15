@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f2a44,100:3b82f6&height=210&section=header&text=Eduard-Florentin%20Enache&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20%C2%B7%20BI%20%C2%B7%20AI%20Product%20Builder&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Eduard-Florentin Enache"/>
 
-<a href="https://github.com/LikeMyCoffe">
+<a href="https://github.com/EduardEnache">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Turning+messy+data+into+KPIs+people+trust;Building+AI+apps+from+idea+%E2%86%92+data+model+%E2%86%92+MVP;Power+BI+%C2%B7+Grafana+%C2%B7+SQL+%C2%B7+Python+%C2%B7+LLMs" alt="Typing intro"/>
 </a>
 
@@ -41,31 +41,31 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/LikeMyCoffe/oneway-instagram-follower-checker">ONE·WAY</a></h4>
+      <h4>🔍 <a href="https://github.com/EduardEnache/oneway-instagram-follower-checker">ONE·WAY</a></h4>
       <p>Client-side Instagram follower analyzer. Parses the data export in the browser behind a <code>connect-src 'none'</code> CSP, so nothing can leave the tab.</p>
       <sub>JavaScript · zero build · nginx · Docker</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>📸 <a href="https://github.com/LikeMyCoffe/faelles-trip-photos">fælles.</a></h4>
+      <h4>📸 <a href="https://github.com/EduardEnache/faelles-trip-photos">fælles.</a></h4>
       <p>Private shared photo and video album for a group trip: resumable uploads, HEIC/HDR media pipeline, live updates and generated memories.</p>
       <sub>TypeScript · Fastify · React · SQLite · ffmpeg</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🍽️ <a href="https://github.com/LikeMyCoffe/bucharest-bitesnvibes">București Bites &amp; Vibes</a></h4>
+      <h4>🍽️ <a href="https://github.com/EduardEnache/bucharest-bitesnvibes">București Bites &amp; Vibes</a></h4>
       <p>Self-hosted tracker for the city's restaurants, cafés and bars with Google Places, lists, a live map and invite-only sign-in.</p>
       <sub>Next.js · Prisma · PostgreSQL · Google Maps</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🗺️ <a href="https://github.com/LikeMyCoffe/copenhagen-pass-maximizer">Copenhagen Pass Maximizer</a></h4>
+      <h4>🗺️ <a href="https://github.com/EduardEnache/copenhagen-pass-maximizer">Copenhagen Pass Maximizer</a></h4>
       <p>Offline-first trip planner that models a city pass as typed data and pure functions: itineraries, value calculator, warning engine.</p>
       <sub>React · TypeScript · Vite · PWA · Vitest</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/LikeMyCoffe/web-scrappers">Bucharest Listing Radar</a></h4>
+      <h4>🏠 <a href="https://github.com/EduardEnache/web-scrappers">Bucharest Listing Radar</a></h4>
       <p>Three Dockerised workers watching OLX, Storia and Publi24, enriching new listings and alerting on Telegram within the hour.</p>
       <sub>Python · BeautifulSoup · Telegram Bot API · Docker</sub>
     </td>
@@ -136,16 +136,16 @@ When I need a break, I don't doom‑scroll. I take a 10‑minute power nap and w
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LikeMyCoffe&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LikeMyCoffe&theme=github_dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LikeMyCoffe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=EduardEnache&theme=dark&hide_border=false&count_private=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardEnache&theme=github_dark)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardEnache&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardEnache&theme=github_dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=LikeMyCoffe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=EduardEnache&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://komarev.com/ghpvc/?username=LikeMyCoffe&style=flat&color=3b82f6&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=EduardEnache&style=flat&color=3b82f6&label=Profile+views)
 
