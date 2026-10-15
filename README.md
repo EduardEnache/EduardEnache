@@ -36,6 +36,47 @@
   </tr>
 </table>
 
+### ◆ &nbsp;Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/LikeMyCoffe/oneway-instagram-follower-checker">ONE·WAY</a></h4>
+      <p>Client-side Instagram follower analyzer. Parses the data export in the browser behind a <code>connect-src 'none'</code> CSP, so nothing can leave the tab.</p>
+      <sub>JavaScript · zero build · nginx · Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📸 <a href="https://github.com/LikeMyCoffe/faelles-trip-photos">fælles.</a></h4>
+      <p>Private shared photo and video album for a group trip: resumable uploads, HEIC/HDR media pipeline, live updates and generated memories.</p>
+      <sub>TypeScript · Fastify · React · SQLite · ffmpeg</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍽️ <a href="https://github.com/LikeMyCoffe/bucharest-bitesnvibes">București Bites &amp; Vibes</a></h4>
+      <p>Self-hosted tracker for the city's restaurants, cafés and bars with Google Places, lists, a live map and invite-only sign-in.</p>
+      <sub>Next.js · Prisma · PostgreSQL · Google Maps</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗺️ <a href="https://github.com/LikeMyCoffe/copenhagen-pass-maximizer">Copenhagen Pass Maximizer</a></h4>
+      <p>Offline-first trip planner that models a city pass as typed data and pure functions: itineraries, value calculator, warning engine.</p>
+      <sub>React · TypeScript · Vite · PWA · Vitest</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 <a href="https://github.com/LikeMyCoffe/web-scrappers">Bucharest Listing Radar</a></h4>
+      <p>Three Dockerised workers watching OLX, Storia and Publi24, enriching new listings and alerting on Telegram within the hour.</p>
+      <sub>Python · BeautifulSoup · Telegram Bot API · Docker</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ Homelab</h4>
+      <p>Self-hosted server running everything above: Docker Compose stacks, Prometheus/Grafana/Loki monitoring, Tailscale, automated updates with rollback.</p>
+      <sub>Proxmox · Docker · Grafana · Bash · Python</sub>
+    </td>
+  </tr>
+</table>
+
 ### ◆ &nbsp;Focus
 
 <table>
